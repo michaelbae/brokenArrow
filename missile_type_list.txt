@@ -1,0 +1,11 @@
+0- basic, free
+2- tracking, 150 points
+3- 3 way, 180 points
+4- bouncing, 250 points
+6- infection, 300 points
+1- exploding, 400 points
+9- unstable power, 500 points
+8- super trap, 700 points
+7- holy cross, 800 points
+5- frozen orb, 1000 points
+

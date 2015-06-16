@@ -1,0 +1,7 @@
+TODO:
+- Block(tile type: money, movement, etc) creation (might need a new class)
+- Stages distinction
+- Score System
+- Gameplay!!!!!!!!!!!
+- Block , tile System (measurement, player movement) (think crazyarcade)
+- Need for stage randomization? 
